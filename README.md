@@ -11,3 +11,5 @@ Per potere essere offuscato l'indirizzo mail dovrà essere formalmente valido.
 Tale controllo viene effettuato:
 + controllando la presenza di un solo carattere @ 
 + controllando la presenza di almeno un . dopo la @
+
+L'esercizio prevede la scrittura del metodo ObfuscateEmail che verrà utilizzato successivamente all'interno di una classe StringServices dedicata al processamento di stringhe.
