@@ -9,7 +9,7 @@ In particolare:
 
 Per potere essere offuscato l'indirizzo mail dovrà essere formalmente valido. 
 Tale controllo viene effettuato:
-+ verificanmdo che il primo carattere della stringa sia diverso da @ 
++ verificando che il primo carattere della stringa sia diverso da @ 
 + controllando la presenza di un solo carattere @ 
 + controllando la presenza di almeno un . dopo la @
 + controllando che la lunghezza del TLD nella stringa sia uguale o superiore a due caratteri
